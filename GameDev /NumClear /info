@@ -1,0 +1,11 @@
+https://gamejolt.com/games/numclear/960359
+
+Goal of the Game:
+
+The goal of the game is to leave the opponent with no digits in their number.
+
+How to Play:
+
+Start the Game: To begin, both players input their numbers in the fields (or just use randomizer). It’s important that both player's numbers have the same number of digits (otherwise, the game won’t start).
+Gameplay: Players take turns. Each turn consists of removing a digit from the player’s number and attempting to remove digits from the opponent’s number. Digits are removed based on a strategy: if the digits match in parity (even or odd), they will be removed from the opponent's number.
+Winning: The game continues until one player has no digits left in their number.
